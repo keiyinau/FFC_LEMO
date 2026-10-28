@@ -1,0 +1,8 @@
+(sym_lib_table (version 7)
+ (lib (name "Connector_Generic")(type "KiCad")(uri "${KIPRJMOD}/symbols/Connector_Generic.kicad_sym")(options "")(descr "Embedded source symbols"))
+ (lib (name "FFCZF5S-10-03-T-WT")(type "KiCad")(uri "${KIPRJMOD}/symbols/FFCZF5S-10-03-T-WT.kicad_sym")(options "")(descr "Embedded source symbols"))
+ (lib (name "LEMO_Horizontal2")(type "KiCad")(uri "${KIPRJMOD}/symbols/LEMO_Horizontal2.kicad_sym")(options "")(descr "Embedded source symbols"))
+ (lib (name "Mechanical")(type "KiCad")(uri "${KIPRJMOD}/symbols/Mechanical.kicad_sym")(options "")(descr "Embedded source symbols"))
+ (lib (name "power")(type "KiCad")(uri "${KIPRJMOD}/symbols/power.kicad_sym")(options "")(descr "Embedded source symbols"))
+ (lib (name "Board6Power")(type "KiCad")(uri "${KIPRJMOD}/symbols/Board6Power.kicad_sym")(options "")(descr "Embedded source symbols"))
+)

@@ -1,0 +1,4 @@
+(fp_lib_table
+ (version 7)
+ (lib (name "Board6")(type "KiCad")(uri "${KIPRJMOD}/Board6.pretty")(options "")(descr "Project-local footprints preserved from Board5, retaining mask edits"))
+)
