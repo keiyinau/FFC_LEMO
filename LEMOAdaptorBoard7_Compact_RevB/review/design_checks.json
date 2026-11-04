@@ -1,0 +1,12 @@
+{
+  "pad_mapping_preserved": true,
+  "outline_mounts_non_LEMO_positions_unchanged": true,
+  "LEMO_move_inward_mm": 7.5,
+  "mating_end_estimate_global_x_mm": 29,
+  "board_left_x_mm": 30,
+  "main_signal_span_mm": 39.52,
+  "left_PGND_nominal_corridor_mm": 8,
+  "PGND_rail_fill_grid_pass_both_layers": true,
+  "SGND_signal_centreline_pass_x_ge_47p5": true,
+  "SI_and_physical_fit_validated": false
+}

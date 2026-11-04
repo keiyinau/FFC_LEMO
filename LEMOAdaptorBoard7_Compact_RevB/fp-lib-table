@@ -1,0 +1,1 @@
+(fp_lib_table (lib (name "Board7")(type "KiCad")(uri "${KIPRJMOD}/Board7.pretty")(options "")(descr "Board7 local footprints")))

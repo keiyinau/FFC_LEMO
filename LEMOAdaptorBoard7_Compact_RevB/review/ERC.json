@@ -1,0 +1,14 @@
+{
+    "$schema": "https://schemas.kicad.org/erc.v1.json",
+    "coordinate_units": "mm",
+    "date": "2026-10-29T18:02:51+0800",
+    "kicad_version": "9.0.7",
+    "sheets": [
+        {
+            "path": "/",
+            "uuid_path": "/afd44778-af2f-457d-80fb-8194cc3d8757",
+            "violations": []
+        }
+    ],
+    "source": "LEMOAdaptorBoard7.kicad_sch"
+}

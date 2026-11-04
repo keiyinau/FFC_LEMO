@@ -1,0 +1,194 @@
+[
+  {
+    "ref": "R_GND",
+    "value": "0R_GND_LINK",
+    "pins": {
+      "1": "SGND",
+      "2": "PGND"
+    },
+    "uuid": "61b9de5c-d0b2-4234-a9c3-66e160f3ac7b"
+  },
+  {
+    "ref": "H4",
+    "value": "M3_PGND",
+    "pins": {
+      "1": "PGND"
+    },
+    "uuid": "918bd58f-9a96-4c7a-a9e9-af3c24aab264"
+  },
+  {
+    "ref": "H3",
+    "value": "M3_PGND",
+    "pins": {
+      "1": "PGND"
+    },
+    "uuid": "faaaf5a4-1b7e-4e64-902d-ceaa05957fef"
+  },
+  {
+    "ref": "H2",
+    "value": "M3_PGND",
+    "pins": {
+      "1": "PGND"
+    },
+    "uuid": "c3b9513c-dbaf-4ee7-b3f2-8af65e1ff381"
+  },
+  {
+    "ref": "H1",
+    "value": "M3_PGND",
+    "pins": {
+      "1": "PGND"
+    },
+    "uuid": "e8d8776c-e7a7-4beb-b764-8e445cfe36be"
+  },
+  {
+    "ref": "PWR_BIAS",
+    "value": "BNC-KWE-6",
+    "pins": {
+      "1": "V_Bias",
+      "2": "PGND"
+    },
+    "uuid": "3816ec4e-2235-48c7-81c3-ddc72e5ed3f9"
+  },
+  {
+    "ref": "PWR_POS",
+    "value": "BNC-KWE-6",
+    "pins": {
+      "1": "+2V5",
+      "2": "PGND"
+    },
+    "uuid": "15190144-db62-4eed-bd1e-b9093753fca0"
+  },
+  {
+    "ref": "PWR_NEG",
+    "value": "BNC-KWE-6",
+    "pins": {
+      "1": "-2V5",
+      "2": "PGND"
+    },
+    "uuid": "51f79b1a-390c-4ead-a44a-c5709cb3634c"
+  },
+  {
+    "ref": "LEMO02",
+    "value": "FPL.00.250.NTD",
+    "pins": {
+      "1": "Signal2",
+      "SHIELD1": "SGND",
+      "SHIELD2": "SGND",
+      "SHIELD3": "SGND",
+      "SHIELD4": "SGND"
+    },
+    "uuid": "1750d06b-158d-4d77-877b-1b41a9af9bed"
+  },
+  {
+    "ref": "LEMO03",
+    "value": "FPL.00.250.NTD",
+    "pins": {
+      "1": "Signal3",
+      "SHIELD1": "SGND",
+      "SHIELD2": "SGND",
+      "SHIELD3": "SGND",
+      "SHIELD4": "SGND"
+    },
+    "uuid": "df768bb1-2f3b-49bb-b96a-4870d41a984e"
+  },
+  {
+    "ref": "FFC1",
+    "value": "ZF5S-10-01-T-WT_Horizontal",
+    "pins": {
+      "01": "SGND",
+      "02": "Signal1",
+      "03": "SGND",
+      "04": "Signal1",
+      "05": "SGND",
+      "06": "SGND",
+      "07": "-2V5",
+      "08": "+2V5",
+      "09": "V_Bias",
+      "10": "SGND",
+      "S1": "SGND",
+      "S2": "SGND"
+    },
+    "uuid": "45984d4f-4f0e-4b0e-af14-beaff9752a7f"
+  },
+  {
+    "ref": "LEMO04",
+    "value": "FPL.00.250.NTD",
+    "pins": {
+      "1": "Signal4",
+      "SHIELD1": "SGND",
+      "SHIELD2": "SGND",
+      "SHIELD3": "SGND",
+      "SHIELD4": "SGND"
+    },
+    "uuid": "bb39d3b5-d0d2-48bd-9d89-4f66e29b10c5"
+  },
+  {
+    "ref": "LEMO01",
+    "value": "FPL.00.250.NTD",
+    "pins": {
+      "1": "Signal1",
+      "SHIELD1": "SGND",
+      "SHIELD2": "SGND",
+      "SHIELD3": "SGND",
+      "SHIELD4": "SGND"
+    },
+    "uuid": "d2755608-73c5-423f-bac1-17a462be0dc6"
+  },
+  {
+    "ref": "FFC4",
+    "value": "ZF5S-10-01-T-WT_Horizontal",
+    "pins": {
+      "01": "SGND",
+      "02": "Signal4",
+      "03": "SGND",
+      "04": "Signal4",
+      "05": "SGND",
+      "06": "SGND",
+      "07": "-2V5",
+      "08": "+2V5",
+      "09": "V_Bias",
+      "10": "SGND",
+      "S1": "SGND",
+      "S2": "SGND"
+    },
+    "uuid": "913c2682-2b08-4e54-80b5-39928127c45c"
+  },
+  {
+    "ref": "FFC2",
+    "value": "ZF5S-10-01-T-WT_Horizontal",
+    "pins": {
+      "01": "SGND",
+      "02": "Signal2",
+      "03": "SGND",
+      "04": "Signal2",
+      "05": "SGND",
+      "06": "SGND",
+      "07": "-2V5",
+      "08": "+2V5",
+      "09": "V_Bias",
+      "10": "SGND",
+      "S1": "SGND",
+      "S2": "SGND"
+    },
+    "uuid": "584362b3-eacf-4454-a1dd-05a79815791b"
+  },
+  {
+    "ref": "FFC3",
+    "value": "ZF5S-10-01-T-WT_Horizontal",
+    "pins": {
+      "01": "SGND",
+      "02": "Signal3",
+      "03": "SGND",
+      "04": "Signal3",
+      "05": "SGND",
+      "06": "SGND",
+      "07": "-2V5",
+      "08": "+2V5",
+      "09": "V_Bias",
+      "10": "SGND",
+      "S1": "SGND",
+      "S2": "SGND"
+    },
+    "uuid": "d1b3d616-312e-4376-a136-b2e367344592"
+  }
+]

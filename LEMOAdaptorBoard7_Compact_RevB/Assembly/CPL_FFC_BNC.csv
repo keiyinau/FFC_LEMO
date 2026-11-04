@@ -1,0 +1,8 @@
+Designator,Mid X,Mid Y,Layer,Rotation
+FFC1,84.5000mm,-70.2800mm,top,90.0
+PWR_POS,62.5000mm,-30.0000mm,top,0.0
+PWR_NEG,47.5000mm,-30.0000mm,top,0.0
+FFC4,84.5000mm,-115.2800mm,top,90.0
+FFC2,84.5000mm,-85.2800mm,top,90.0
+FFC3,84.5000mm,-100.2800mm,top,90.0
+PWR_BIAS,77.5000mm,-30.0000mm,top,0.0

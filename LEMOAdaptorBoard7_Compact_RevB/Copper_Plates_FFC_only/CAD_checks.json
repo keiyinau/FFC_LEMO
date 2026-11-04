@@ -1,0 +1,20 @@
+{
+  "Lower": {
+    "valid_solid": true,
+    "volume_mm3": 16177.366377849,
+    "bbox_mm": [
+      65.0,
+      125.0,
+      2.0
+    ]
+  },
+  "Upper": {
+    "valid_solid": true,
+    "volume_mm3": 14033.366377849003,
+    "bbox_mm": [
+      65.0,
+      125.0,
+      2.0
+    ]
+  }
+}
